@@ -1,0 +1,23 @@
+{
+  "name": "js-mvc",
+  "version": "1.0.0",
+  "description": "JS MVC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impactbyte-fang/js-mvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/impactbyte-fang/js-mvc/issues"
+  },
+  "homepage": "https://github.com/impactbyte-fang/js-mvc#readme",
+  "dependencies": {
+    "jquery": "3.3.1"
+  }
+}
